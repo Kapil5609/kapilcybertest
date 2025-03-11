@@ -31,23 +31,33 @@ Cybersecurity Skills
 🖥️ Offensive Security
 
 ✅ Penetration Testing (Web, Network, Wireless)
+
 ✅ Red Teaming & Exploit Development
+
 ✅ SQL Injection, XSS, CSRF, LFI, RFI
+
 ✅ Reverse Engineering & Malware Analysis
+
 ✅ Open Source Intelligence (OSINT)
 
 🔹 Defensive Security
 
 ✅ Network Security & Firewalls
+
 ✅ Threat Hunting & Incident Response
+
 ✅ SIEM & Log Analysis
+
 ✅ Encryption & Cryptography
+
 ✅ Endpoint Security & Hardening
 
 📜 Programming & Scripting
 
 ✅ Python, Bash, PowerShell
+
 ✅ Automation & Scripting for Cybersecurity
+
 ✅ Web Scraping & API Exploitation
 
 📫 **Contact Me:**  
