@@ -1,18 +1,18 @@
 # # 👨‍💻 kapil | Cybersecurity Enthusiast
-YOUR NAME | Cybersecurity Researcher & Ethical Hacker
+ | Cybersecurity Researcher & Ethical Hacker
 
 🔹 Penetration Tester | Red Team | Ethical Hacker | Python Developer
+
 🔹 Specializing in Web Security | Network Security | OSINT | Malware Analysis
-🔹 Building 
+ 
 
 ## 🚀 Featured Projects
 - 🛡️ **[SQL Injection Scanner](https://github.com/your-username/SQL-Injection-Scanner)**  
 - 🔍 **[XSS Vulnerability Scanner](https://github.com/your-username/XSS-Scanner)**  
 - 🔥 **[Network Port Scanner](https://github.com/your-username/Port-Scanner)**  
 
-🚀 Featured Projects
 
-🛠️ Security Tools & Scripts
+## 🛠️ Security Tools & Scripts 
 
 🔹 SQL Injection Scanner – Automated scanner to detect SQLi vulnerabilities.
 
@@ -26,9 +26,8 @@ YOUR NAME | Cybersecurity Researcher & Ethical Hacker
 
 🔹 Malware Analysis Sandbox – Analyzes suspicious files in a virtual environment
 
-Cybersecurity Skills
 
-🖥️ Offensive Security
+## 🖥️ Offensive Security
 
 ✅ Penetration Testing (Web, Network, Wireless)
 
@@ -40,7 +39,7 @@ Cybersecurity Skills
 
 ✅ Open Source Intelligence (OSINT)
 
-🔹 Defensive Security
+## 🖥️ Defensive Security
 
 ✅ Network Security & Firewalls
 
@@ -52,7 +51,7 @@ Cybersecurity Skills
 
 ✅ Endpoint Security & Hardening
 
-📜 Programming & Scripting
+## 📜 Programming & Scripting
 
 ✅ Python, Bash, PowerShell
 
