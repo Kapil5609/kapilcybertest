@@ -15,10 +15,15 @@ YOUR NAME | Cybersecurity Researcher & Ethical Hacker
 🛠️ Security Tools & Scripts
 
 🔹 SQL Injection Scanner – Automated scanner to detect SQLi vulnerabilities.
+
 🔹 XSS Vulnerability Scanner – Detects cross-site scripting risks in web applications.
+
 🔹 Port Scanner – Scans open ports & detects running services.
+
 🔹 Password Cracking Toolkit – Brute force & dictionary attack tool.
+
 🔹 OSINT Recon Tool – Gathers public data on a target using various APIs.
+
 🔹 Malware Analysis Sandbox – Analyzes suspicious files in a virtual environment
 
 Cybersecurity Skills
